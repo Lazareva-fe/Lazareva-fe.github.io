@@ -209,6 +209,10 @@ a{
 	max-width: 100%;
 }
 
+.credo-p{
+	padding-left: 1px;
+}
+
 }
 
 
@@ -218,6 +222,9 @@ a{
 	padding: 20% 10%;
 }
 
+.credo-p{
+	padding-left: 4px;
+}
 
 .credo-h{
 	font-size: 70px;
