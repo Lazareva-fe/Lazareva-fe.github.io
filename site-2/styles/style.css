@@ -96,7 +96,7 @@ nav ul{
 .help-h::before,
 .submit-img,
 .soc-icon{
-	background: url(../img/sprite.png) no-repeat;
+	background: url(../img/Sprite.png) no-repeat;
 }
 
 .menu-icon{
@@ -166,7 +166,7 @@ nav ul{
 	width: 15px;
 	height: 15px;
 	margin-right: 4px;
-	background: url(../img/sprite.png) 0 0;
+	background: url(../img/Sprite.png) 0 0;
 }
 
 .tel-number:hover{
@@ -174,7 +174,7 @@ nav ul{
 }
 .tel-number:hover:before{
 	/*background-position: -285px -188px;*/
-	background: url(../img/sprite.png) -306px -189px;
+	background: url(../img/Sprite.png) -306px -189px;
 }
 
 
@@ -710,31 +710,31 @@ nav ul{
 
 .tw{
 	background:
-	url(../img/sprite.png) no-repeat,
+	url(../img/Sprite.png) no-repeat,
 	#55acee;
 	background-position: -141px -258px;
 }
 .fb{
 	background:
-	url(../img/sprite.png) no-repeat,
+	url(../img/Sprite.png) no-repeat,
 	#3b5998;
 	background-position: -136px -333px;
 }
 .insta{
 	background:
-	url(../img/sprite.png) no-repeat,
+	url(../img/Sprite.png) no-repeat,
 	#3f729b;
 	background-position: -140px -408px;
 }
 .dribbble{
 	background:
-	url(../img/sprite.png) no-repeat,
+	url(../img/Sprite.png) no-repeat,
 	#ea4c89;
 	background-position: -141px -483px;
 }
 .github{
 	background:
-	url(../img/sprite.png) no-repeat,
+	url(../img/Sprite.png) no-repeat,
 	#333333;
 	background-position: -140px -558px;
 	margin-right: 0;
